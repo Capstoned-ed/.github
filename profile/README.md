@@ -4,7 +4,7 @@ Capstoned-ed is a team of BSIT students from the University of Science and Techn
 Team Members
 - Jessica R. Gabica
 - Ralph Angelo B. Perocho
-- Luredel P.Dulangon
+- Luredel P. Dulangon
 - Faith Love A. Traya
 - Ken Louie Neri
 
